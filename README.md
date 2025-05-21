@@ -1,4 +1,4 @@
-# Ex. No. 9: Exploration of Prompting Techniques for Video Generation**
+# Ex. No. 9: Exploration of Prompting Techniques for Video Generation
 
 ##### Reg. No.:212222230002
 # Aim:
