@@ -1,6 +1,6 @@
 # Ex. No. 9: Exploration of Prompting Techniques for Video Generation
 
-##### Reg. No.:212222230002
+##### Reg. No.:212223060264
 # Aim:
 
 To explore and understand various prompting techniques used for generating and manipulating video content using AI models such as Runway Gen-2, Make-A-Video, and Imagen Video. The objective is to identify how different types of prompts (simple, detailed, stylistic, hybrid, iterative) impact the style, coherence, and quality of the generated videos.
